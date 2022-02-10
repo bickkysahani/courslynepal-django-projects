@@ -1,6 +1,30 @@
 # Coursly Nepal Open Source Django Projects
 
 ## Projects
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Language</th>
+<th>Figma Link</th>
+<th>HTML Templates Link</th>
+</tr>
+<tr>
+<td>Hot Coffee Django Blog</td>
+<td>Project Description</td>
+<td>Python Django</td>
+<td> <a href="https://www.figma.com/file/SzIUDHOPxfzoxraMNnxtib/Minimal-Blog-(challenge)?node-id=0%3A1">HotCoffee</a> </td>
+<td> <a href="#">To be add soon</a> </td>
+</tr>
+<tr>
+<td>Project 2</td>
+<td>Project 2 Description</td>
+<td>Python Django</td>
+<td> <a href="#">Project 2</a> </td>
+<td> <a href="#">Project 2</a> </td>
+</tr>
+</table>
+
 ## How to Submit ?
 1. Fork this repository
 2. Clone the repository
@@ -40,3 +64,14 @@ git push origin <branch_name>
 ```
 9. Open this repository in Github and Create a pull request.
 
+Click on Compare & Pull Request.
+![App Screenshot](screenshots/1.png)
+
+Click on Create Pull Request.
+![App Screenshot](screenshots/2.png)
+
+When you create a pull request, you will be able to see your submission in the list of submissions.
+![App Screenshot](screenshots/3.png)
+
+10. This is the end of the submission process.
+11. Wait for the admin to review your submission and merge it if it is approved.
